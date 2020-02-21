@@ -1,0 +1,14 @@
+C:\Users\erick.h.apaza.conde\source\repos\Senai.Peoples.WebApi2\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\erick.h.apaza.conde\source\repos\Senai.Peoples.WebApi2\bin\Debug\netcoreapp2.1\Senai.Peoples.WebApi2.deps.json
+C:\Users\erick.h.apaza.conde\source\repos\Senai.Peoples.WebApi2\bin\Debug\netcoreapp2.1\Senai.Peoples.WebApi2.runtimeconfig.json
+C:\Users\erick.h.apaza.conde\source\repos\Senai.Peoples.WebApi2\bin\Debug\netcoreapp2.1\Senai.Peoples.WebApi2.runtimeconfig.dev.json
+C:\Users\erick.h.apaza.conde\source\repos\Senai.Peoples.WebApi2\bin\Debug\netcoreapp2.1\Senai.Peoples.WebApi2.dll
+C:\Users\erick.h.apaza.conde\source\repos\Senai.Peoples.WebApi2\bin\Debug\netcoreapp2.1\Senai.Peoples.WebApi2.pdb
+C:\Users\erick.h.apaza.conde\source\repos\Senai.Peoples.WebApi2\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi2.csprojAssemblyReference.cache
+C:\Users\erick.h.apaza.conde\source\repos\Senai.Peoples.WebApi2\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi2.RazorAssemblyInfo.cache
+C:\Users\erick.h.apaza.conde\source\repos\Senai.Peoples.WebApi2\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi2.RazorAssemblyInfo.cs
+C:\Users\erick.h.apaza.conde\source\repos\Senai.Peoples.WebApi2\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi2.AssemblyInfoInputs.cache
+C:\Users\erick.h.apaza.conde\source\repos\Senai.Peoples.WebApi2\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi2.AssemblyInfo.cs
+C:\Users\erick.h.apaza.conde\source\repos\Senai.Peoples.WebApi2\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi2.RazorTargetAssemblyInfo.cache
+C:\Users\erick.h.apaza.conde\source\repos\Senai.Peoples.WebApi2\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi2.dll
+C:\Users\erick.h.apaza.conde\source\repos\Senai.Peoples.WebApi2\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi2.pdb
