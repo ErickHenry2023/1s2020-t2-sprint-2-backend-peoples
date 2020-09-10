@@ -11804,11 +11804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erick.h.apaza.conde\\Desktop\\Nova pasta\\Senai.Peoples.WebApi2\\Senai.Peoples.WebApi2.csproj",
+      "projectUniqueName": "C:\\Users\\erick.h.apaza.conde\\Documents\\GitHub\\1s2020-t2-sprint-2-backend-peoples\\Senai.Peoples.WebApi2\\Senai.Peoples.WebApi2.csproj",
       "projectName": "Senai.Peoples.WebApi2",
-      "projectPath": "C:\\Users\\erick.h.apaza.conde\\Desktop\\Nova pasta\\Senai.Peoples.WebApi2\\Senai.Peoples.WebApi2.csproj",
+      "projectPath": "C:\\Users\\erick.h.apaza.conde\\Documents\\GitHub\\1s2020-t2-sprint-2-backend-peoples\\Senai.Peoples.WebApi2\\Senai.Peoples.WebApi2.csproj",
       "packagesPath": "C:\\Users\\erick.h.apaza.conde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erick.h.apaza.conde\\Desktop\\Nova pasta\\Senai.Peoples.WebApi2\\obj\\",
+      "outputPath": "C:\\Users\\erick.h.apaza.conde\\Documents\\GitHub\\1s2020-t2-sprint-2-backend-peoples\\Senai.Peoples.WebApi2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
